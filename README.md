@@ -1,1 +1,1 @@
-# two-rectangles-
+# Box Class
